@@ -98,6 +98,7 @@ Contractor CRMs that integrate with answering services or include phone-handling
 - **[ServiceTitan](https://www.servicetitan.com)** — Enterprise field service management. Phone module available.
 - **[Housecall Pro](https://housecallpro.com)** — Home service management with phone + dispatching.
 - **[Jobber](https://getjobber.com)** — Field service management; integrates with most answering services via webhook.
+- **[FieldServiceScout — Jobber vs Housecall Pro](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro)** — Independent, vendor-neutral head-to-head for contractors shortlisting Jobber vs Housecall Pro (features + modeled true cost). Not FieldScout/fieldscout.io. Affiliate commissions on some platforms; scoring treats $0-commission vendors the same. _(Disclosure: FieldServiceScout listing.)_
 - **[Field Edge](https://fieldedge.com)** — HVAC + plumbing + electrical service software.
 - **[JobNimbus](https://www.jobnimbus.com)** — Roofing-heavy contractor CRM.
 - **[BuilderTrend](https://buildertrend.com)** — Construction project management.
@@ -118,7 +119,6 @@ Authority pieces journalists and contractor-blog roundup writers can cite. Vendo
 - **[OnCrew Handoff Packet Field Standard](https://oncrew.ai/blog/ai-answering-service-handoff-packet-2026-field-standard)** — 11-field operational spec for the SMS / email handoff a contractor AI answering service should deliver to the on-call tech.
 - **[OnCrew "Best AI Answering Services for Contractors in 2026"](https://oncrew.ai/blog/best-ai-answering-services-contractors-2026)** — 10-vendor head-to-head with a shop-profile decision aid.
 
-- **[FieldServiceScout — Jobber vs Housecall Pro](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro)** — Independent, vendor-neutral side-by-side for field-service software (HVAC / plumbing / electrical shops). Published scoring + true-cost framing; not FieldScout (fieldscout.io).
 
 ## Contributing
 
