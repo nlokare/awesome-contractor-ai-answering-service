@@ -118,6 +118,8 @@ Authority pieces journalists and contractor-blog roundup writers can cite. Vendo
 - **[OnCrew Handoff Packet Field Standard](https://oncrew.ai/blog/ai-answering-service-handoff-packet-2026-field-standard)** — 11-field operational spec for the SMS / email handoff a contractor AI answering service should deliver to the on-call tech.
 - **[OnCrew "Best AI Answering Services for Contractors in 2026"](https://oncrew.ai/blog/best-ai-answering-services-contractors-2026)** — 10-vendor head-to-head with a shop-profile decision aid.
 
+- **[FieldServiceScout — Jobber vs Housecall Pro](https://www.fieldservicescout.com/compare/jobber-vs-housecall-pro)** — Independent, vendor-neutral side-by-side for field-service software (HVAC / plumbing / electrical shops). Published scoring + true-cost framing; not FieldScout (fieldscout.io).
+
 ## Contributing
 
 PRs and issues welcome. Bar for inclusion:
